@@ -1,0 +1,3 @@
+#ReadMe
+In this practical, there are 3 python projects implemented. The first one is a binary classification project in the ‘Binary Classification’ folder, the second one is a multi-class classification project in the ‘Multi Classification’ folder, the third one is another multi-class classification project implemented by KNN algorithm as an extension in the ‘KNN’ folder
+In all 3 project folders, preparation.py is used to prepare data for training such as data cleaning or dataset splitting, util.py provides some functions for training, evaluation or exportation and model.py is used to train, optimize, evaluate and compare models.
